@@ -17,7 +17,7 @@
         "ext-pdo": "*",
         "ext-pdo_mysql": "*",
         "ext-tokenizer": "*",
-        "astrotomic/laravel-translatable": "^11.16.0",
+        "astrotomic/laravel-translatable": "^11.17.2",
         "bacon/bacon-qr-code": "^3.1",
         "barryvdh/laravel-dompdf": "^2.0.0|^3.0",
         "diglactic/laravel-breadcrumbs": "^10.0",
@@ -47,7 +47,7 @@
         "symfony/intl": "^7.0"
     },
     "require-dev": {
-        "barryvdh/laravel-debugbar": "^4.2",
+        "barryvdh/laravel-debugbar": "^4.4.5",
         "driftingly/rector-laravel": "^2.5",
         "fakerphp/faker": "^1.23",
         "larastan/larastan": "^3.10",
